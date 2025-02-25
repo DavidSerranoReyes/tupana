@@ -1,51 +1,51 @@
+## tuPana
 
- ## tuPana ##
+### Project Name: Tu Pana
 
-### Nombre del Proyecto: Tu Pana
+### Project Status:
 
-### Estado del Proyecto:
-:construction: Proyecto en construcción :construction:
+:construction: Project Under Construction :construction:
 
-### Descripción General:
-Tu Pana es una aplicación innovadora diseñada para brindar apoyo emocional a las personas en momentos de necesidad. Su objetivo es ayudar a los usuarios a identificar y comprender sus emociones a través de una interfaz interactiva y accesible. La app utiliza imágenes, ejercicios de reflexión y recomendaciones personalizadas para guiar a los usuarios en su proceso emocional.
+### General Description:
 
-#### Características Clave:
+Tu Pana is an innovative app designed to provide emotional support to individuals during times of need. Its main purpose is to help users identify and understand their emotions through an interactive and accessible interface. The app utilizes images, reflection exercises, and personalized recommendations to guide users through their emotional process.
 
-- **Identificación de Emociones**:
-        Un sistema de selección de emociones mediante imágenes y descripciones breves que permita a los usuarios reconocer lo que sienten.
+#### Key Features:
 
-- **Autoevaluación**:
-        Herramientas de autoevaluación que guían a los usuarios a explorar el origen de sus emociones y cómo estas afectan su bienestar.
+- **Emotion Identification**:  
+  A system for selecting emotions using images and brief descriptions that allows users to recognize what they are feeling.
 
-- **Recursos Personalizados**:
-        Ofrecemos respuestas y recursos adaptados a cada emoción, incluyendo artículos, videos, ejercicios de respiración y técnicas de mindfulness.
+- **Self-Assessment**:  
+  Self-assessment tools that guide users to explore the origin of their emotions and how they affect their well-being.
 
-- **Diario Emocional**:
-        Una función de diario donde los usuarios pueden registrar sus emociones diarias, reflexiones y progresos, promoviendo la autoconciencia.
+- **Personalized Resources**:  
+  Responses and resources tailored to each emotion, including articles, videos, breathing exercises, and mindfulness techniques.
 
-- **Comunidad y Apoyo**:
-        Un espacio seguro para compartir experiencias y recibir apoyo de otros usuarios, moderado por profesionales en salud mental.
+- **Emotional Journal**:  
+  A journal feature where users can record their daily emotions, reflections, and progress, promoting self-awareness.
 
-- **Notificaciones de Bienestar**:
-        Recordatorios para practicar el autocuidado y ejercicios de regulación emocional en momentos específicos del día.
+- **Community and Support**:  
+  A safe space to share experiences and receive support from other users, moderated by mental health professionals.
 
-- **Acceso a Profesionales**:
-        Opción de conectarse con terapeutas o consejeros a través de la app para apoyo adicional.
+- **Wellness Notifications**:  
+  Reminders to practice self-care and emotional regulation exercises at specific times of the day.
 
-- **Objetivo**: El objetivo de tuPana es empoderar a las personas para que reconozcan, comprendan y gestionen sus emociones de manera efectiva, promoviendo el bienestar mental y emocional en la vida diaria.
+- **Access to Professionals**:  
+  The option to connect with therapists or counselors through the app for additional support.
 
-- **Impacto Esperado**: Esperamos que esta app contribuya a una mayor conciencia emocional, reduzca el estigma asociado a la búsqueda de apoyo psicológico y mejore la calidad de vida de los usuarios.
+- **Goal**:  
+  The goal of Tu Pana is to empower individuals to recognize, understand, and manage their emotions effectively, promoting mental and emotional well-being in daily life.
 
+- **Expected Impact**:  
+  We hope that this app will contribute to greater emotional awareness, reduce the stigma associated with seeking psychological support, and improve users' quality of life.
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- **HTML**: Para la estructura del contenido de las páginas web.
-- **CSS**: Para el diseño y estilo de las páginas web.
-- **JavaScript**: Para la interacción y funcionalidades dinámicas en las páginas web.
+- **HTML**: For the structure of the web page content.
+- **CSS**: For the design and style of the web pages.
+- **JavaScript**: For interaction and dynamic functionality on the web pages.
 
+## Author
 
-## Autores
+David Serrano
 
-David Serrano 
-
-Alvaro Troya 
